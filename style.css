@@ -9,4 +9,20 @@ body {
   padding: 0;
 }
 
-/* Add styles here! */
+strong {
+  color: hsl(160, 100%, 30%)
+}
+
+/* font sizes */
+.card p {
+  font-size: 1rem;
+}
+.intro-chunk p {
+  font-size: 1.25rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h1 {
+  font-size: 2rem;
+}
